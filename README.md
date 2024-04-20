@@ -1,2 +1,2 @@
 # visualCodes
-WOrking on the visual basic codes
+Working on the visual basic C codes
